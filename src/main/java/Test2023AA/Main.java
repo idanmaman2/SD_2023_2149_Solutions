@@ -1,9 +1,5 @@
-package org.example;
+package Test2023AA;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 import java.util.stream.Collectors;
 //Question -
 public class Main {

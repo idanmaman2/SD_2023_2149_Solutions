@@ -13,5 +13,5 @@ public class Main {
         System.out.println(sol1);
         System.out.println(sol2);
     }
-    
+
 }
